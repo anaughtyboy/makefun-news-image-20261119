@@ -130,7 +130,7 @@ STORIES = [
          head="Three leaders, one table",
          body="Trump, Xi and Putin hold the first-ever trilateral summit on the APEC sidelines, with nuclear arms on the agenda.",
          img="media-generation-summit-0-56a0f836-d798-4732-8ef1-dcd05803e336.webp"),
-    dict(kicker="GULF WAR", color=(146, 32, 32),
+    dict(kicker="GULF TENSIONS", color=(146, 32, 32),
          head="Tankers hit mines off Hormuz",
          body="Iran says three tankers caught fire after striking mines east of the strait; another tanker was hit off Oman.",
          img="media-generation-tanker-0-598e9166-cb6e-450f-b5c7-df5a1792e753.webp"),
